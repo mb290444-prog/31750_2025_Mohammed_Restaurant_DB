@@ -1,1 +1,1 @@
-This repository contains the Restaurant Management System project, including the database report and presentation."
+This project is a database management system developed for the Database Programming course (Academic Year 2025-2026). It is designed to automate restaurant operations, including order tracking, menu management, and staff coordination, while ensuring data integrity through normalized tables, procedures, and triggers.
